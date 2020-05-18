@@ -7,7 +7,7 @@
 	Icons:
 		Font Awesome (fontawesome.io)
 	
-	<br><br>
+	<br></br>
 	Other:
 		jQuery (jquery.com)
 		Scrollex (github.com/ajlkn/jquery.scrollex)
