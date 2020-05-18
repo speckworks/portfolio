@@ -3,7 +3,7 @@
 <h4> <em>This portfolio was built from a template CCA 3.0 license (html5up.net/license)by aj@lkn.io 
 	</em>
 </h4>
-<h5><br></br>
+<h5>
 	Icons:
 		Font Awesome (fontawesome.io)
 	
