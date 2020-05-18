@@ -1,9 +1,6 @@
 <h2>John Speck Portfolio</h2>
 
-<h4> <em>This portfolio was built from the template gracious provided under the CCA 3.0 license (html5up.net/license)
-by 
-AJ
-aj@lkn.io | @ajlkn
+<h4> <em>This portfolio was built from a template CCA 3.0 license (html5up.net/license)by aj@lkn.io | @ajlkn
 	</em>
 </h4>
 
